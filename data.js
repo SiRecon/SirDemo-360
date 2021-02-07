@@ -53,7 +53,7 @@ var APP_DATA = {
           "yaw": -1.3075283780928508,
           "pitch": -0.08145554817263445,
           "title": "Akses Langsung",
-          "text": "Selain dapat dengan mudah mengawasi kondisi rumah.<div><br></div><div>Jika tamu merasa sungkan dapat langsung kabur dan dapat juga memudahkan untuk mengusir tamu dengan mudah ^_^</div>"
+          "text": "Dengan akses langsung ke area luar.<div><br></div><div>Dapat digunakan sebagai pintu darurat atau pun akses untuk mengecek keadaan di luar rumah.</div>"
         }
       ]
     },
@@ -98,19 +98,19 @@ var APP_DATA = {
           "yaw": 1.0563636075695477,
           "pitch": -0.14095897873738394,
           "title": "Kulkas",
-          "text": "Lengkap dengan kulkas modern ala-ala koki di kolam ikan"
+          "text": "Lengkap dengan kulkas modern ala chef."
         },
         {
           "yaw": -1.010334529186924,
           "pitch": 0.07986095355639122,
           "title": "Sirkulasi",
-          "text": "Posisi dapur yang ada di pinggir rumah.<div><br></div><div>Sangat baik untuk sirkulasi udara dan keamanan dalam memasak, serta membuat pengen tetangga dengan aroma masakan kita :)</div>"
+          "text": "Posisi dapur yang ada di pinggir rumah.<div><br></div><div>Sangat baik untuk sirkulasi udara dan keamanan dalam memasak.</div>"
         },
         {
           "yaw": -0.44350315403106144,
           "pitch": -0.07422667169131358,
           "title": "LCD",
-          "text": "Agar tidak ketinggalan update infotainment saat memasak di dapur"
+          "text": "Sebagai penambah kenyamanan dalam berkegiatan di dapur."
         }
       ]
     },
@@ -252,7 +252,7 @@ var APP_DATA = {
           "yaw": 2.044223771463119,
           "pitch": 0.03430114395847994,
           "title": "Ruang Keluarga",
-          "text": "Yang pasti masuk ke ruangan ini sudah dianggap keluarga oleh Tuan rumah.<div><br></div><div>Dan pasti merasa nyaman dan malas pulang bagi yang bertamu :D</div>"
+          "text": "Dikonsep sedemikian rupa agar membuat nyaman keluarga Anda.<div><br></div><div>Dilengkapi dengan pencahayaan yang baik dari luar, membuat ruang keluarga menjadi lebih fresh.</div>"
         }
       ]
     }
